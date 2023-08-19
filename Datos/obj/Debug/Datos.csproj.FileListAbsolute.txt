@@ -1,0 +1,9 @@
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\bin\Debug\Entidad.dll
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\bin\Debug\Entidad.pdb
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\Jefry\Desktop\d\TrabajoFinal\Datos\obj\Debug\Datos.pdb
